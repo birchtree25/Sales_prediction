@@ -33,16 +33,16 @@ Testing Data:
 The split leaves us with 5966 data entries to work with. Some of these are null values as well. We will be working on the removal of them later.
 The test data has 2 main types of values. Numeric (int64 and float64) and non numeric i.e. object type of values. We will separate them into their respective categories. 
 The numeric data contains the following variables.
-•	Item_Weight	
-•	Item_Visibility	
-•	Item_MRP	
-•	Outlet_Establishment_Year
+•	Item_Weight	    
+•	Item_Visibility	  
+•	Item_MRP  	  
+•	Outlet_Establishment_Year  
 
 The non numeric data contains the following variables:
-•	Item_Identifier	
-•	Item_Fat_Content	
-•	Item_Type	
-•	Outlet_Identifier	
-•	Outlet_Size	
-•	Outlet_Location_Type	
-•	Outlet_Type
+•	Item_Identifier	  
+•	Item_Fat_Content	  
+•	Item_Type	  
+•	Outlet_Identifier	  
+•	Outlet_Size	  
+•	Outlet_Location_Type	  
+•	Outlet_Type  
