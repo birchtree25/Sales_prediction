@@ -1,6 +1,8 @@
 # Sales_prediction
 Making use of 5 models to compare their base performance and using a gui to input new data and use new data as input to predict sales
 
+RUN THE GUI FIRST, USE THE CSV AS REFERENCE TO INPUT INTO THE GUI
+
 we will be exploring through the intricate nature of sales prediction and model comparison, scrutinizing the meaningfulness of these forecasts. We will inspect different prediction methodologies and models, examining the subtle nuances that differentiate them. 
 There are 6 models which we will be using in the testing and to draw conclusions from. The models that will be used are:
 •	RandomForestRegression
